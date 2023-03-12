@@ -50,8 +50,9 @@ export const Footer: React.FC = () => (
     px={{ base: "4", md: "8" }}
   >
     <Stack direction="row" alignItems="center" justify="space-between">
+      {/*
       <Copyright alignSelf={{ base: "center", sm: "start" }} />
-      <SocialMediaLinks />
+      <SocialMediaLinks />  */}
     </Stack>
   </Box>
 )
