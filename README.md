@@ -1,7 +1,5 @@
 # Portfolio
 
-あしやのポートフォリオです: [ashiyahiro.art](https://ashiyahiro.art)
-
 ## ローカルで動かす
 
 ### 1. リポジトリをクローンする
